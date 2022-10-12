@@ -1,0 +1,10 @@
+pandas
+numpy
+plotly
+statsmodels
+matplotlib
+scipy
+# prophet
+# tensorflow
+# ipywidgets
+streamlit
